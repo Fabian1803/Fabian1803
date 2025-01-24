@@ -5,18 +5,20 @@
 </p>
 
 <br>
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
-	</a>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-</p>
+<br><br>
+
+- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
+- :trophy: 2x `ACPC` Finalist.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+<br>
 # 💫 About Me:
 Hey there! I'm Fabian, a tech enthusiast with a strong interest in Full Stack development and mobile apps 📱. My curiosity for building tech solutions has led me to explore both web development and mobile app development, always integrating new tools, languages, and technologies to improve my skills and deliver innovative solutions 💻✨.<br><br>What excites me the most about Full Stack development is the ability to work on all aspects of an application, from user interfaces to database management and server logic 🌐. Additionally, the world of mobile apps fascinates me, as it allows me to create interactive and useful experiences tailored to users' needs on mobile devices 📲.<br><br>I'm constantly learning and experimenting, aiming to build complete and scalable applications for both the web and mobile platforms. As I progress on my journey to becoming a Full Stack developer, I focus on tackling new challenges and improving with each project 🚀.<br><br>While my primary focus is on web and mobile development, I'm always open to exploring emerging technologies. I love collaborating on innovative projects and contributing to solutions that make a difference 🌟.
 
