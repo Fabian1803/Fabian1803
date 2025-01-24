@@ -5,6 +5,18 @@
 </p>
 
 <br>
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+	<!---
+		<a href = "https://commits.top/egypt.html" target="_blank">
+			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
+		</a>
+	-->
+	<a href = "https://commits.top/egypt.html" target="_blank">
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
+	</a>
+
+</p>
 # 💫 About Me:
 Hey there! I'm Fabian, a tech enthusiast with a strong interest in Full Stack development and mobile apps 📱. My curiosity for building tech solutions has led me to explore both web development and mobile app development, always integrating new tools, languages, and technologies to improve my skills and deliver innovative solutions 💻✨.<br><br>What excites me the most about Full Stack development is the ability to work on all aspects of an application, from user interfaces to database management and server logic 🌐. Additionally, the world of mobile apps fascinates me, as it allows me to create interactive and useful experiences tailored to users' needs on mobile devices 📲.<br><br>I'm constantly learning and experimenting, aiming to build complete and scalable applications for both the web and mobile platforms. As I progress on my journey to becoming a Full Stack developer, I focus on tackling new challenges and improving with each project 🚀.<br><br>While my primary focus is on web and mobile development, I'm always open to exploring emerging technologies. I love collaborating on innovative projects and contributing to solutions that make a difference 🌟.
 
