@@ -39,36 +39,36 @@
 [![My Skills](https://skills.syvixor.com/api/icons?i=html,css3,javascript,wordpress,vite,reactjs,tailwindcss,tailwindmerge,angularjs,vuejs,android,apple,reactnative,bootstrap,electron)](https://skills-icons.vercel.app)
 
 </div>  
-<h2>🔒 DevSecOps</h2>  
+<h3>🔒 DevSecOps</h3>  
 <div align="center">  
 
 [![My Skills](https://skills.syvixor.com/api/icons?i=docker,gitlab,jenkins,terraform,grafana,prometheus,loki,snyk,githubcopilot)](https://skillicons.dev)  
 
 
 </div>
-<h2>🗄️ Databases & ORM</h2>  
+<h3>🗄️ Databases & ORM</h3>  
 <div align="center">  
 
-[![My Skills](https://skills.syvixor.com/api/icons?i=sqlserver,mysql,postgresql,mongodb,prisma,typeorm,hibernate)](https://skillicons.dev)  
+[![My Skills](https://skills.syvixor.com/api/icons?i=sqlserver,mysql,postgresql,mongodb,supabase,prisma,typeorm,hibernate)](https://skillicons.dev)  
 
 
 </div>  
-<h2>☁️ Deploy & Cloud</h2>  
+<h3>☁️ Deploy & Cloud</h3>  
 <div align="center">  
 
 [![My Skills](https://skills.syvixor.com/api/icons?i=amazonwebservices,azure,googlecloud,vercel,netlify,render,railway)](https://skillicons.dev)  
 
 </div>  
-<h2>💻 Operating Systems/h2>  
+<h3>💻 Operating Systems/h3>  
 <div align="center">  
 
 [![My Skills](https://skills.syvixor.com/api/icons?i=windows,linux,ubuntu,kalilinux,macos)](https://skillicons.dev)  
 
 </div>  
-<h2 align="center">🛠️ Tools</h2>  
+<h3 align="center">🛠️ Tools</h3>  
 <div align="center">  
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,grafana,prometheus)](https://skillicons.dev)  
+[![My Skills](https://skills.syvixor.com/api/icons?i=gitbash,git,github,visualstudiocode,netbeans,intellijidea,postman,notion,figma,googlecolaboratory,androidstudio,xcode)](https://skillicons.dev)  
 
 </div>  
 <br>
