@@ -35,6 +35,8 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=nextjs,react,ts,py,java,mysql,postgres,php&theme=dark)](https://skills.thijs.gg)
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40"/>
 
 
 
