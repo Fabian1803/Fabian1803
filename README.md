@@ -35,6 +35,7 @@
 <img src="https://cdn.simpleicons.org/flask/white" height="50"/>
 ![Custom Badge](https://img.shields.io/badge/Backend-NestJS%20%7C%20FastAPI%20%7C%20Spring-blue?style=for-the-badge&logo=nestjs&logoColor=white)
 
+![Custom Badge](https://img.shields.io/badge/Backend-NestJS%20%7C%20FastAPI%20%7C%20Spring-blue?style=for-the-badge&logo=nestjs&logoColor=white)
 
 
 
