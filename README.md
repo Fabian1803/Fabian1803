@@ -39,6 +39,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40"/>
 
 
+[![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Backend&line1=nodejs,express,nestjs,flask)](https://github.com/0l1v3rr/github-readme-tech-stack)
+
 
 
 </div>
