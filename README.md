@@ -28,6 +28,8 @@
 
 
 <h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>    Languages & tools I Have placed My Hands On </h2>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,py,fastapi,postgres,mongodb,prisma)](https://skillicons.dev)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,apple,git,androidstudio,aws,firebase,flutter,discord,gcp,github,godot,idea,java" />
