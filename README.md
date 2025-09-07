@@ -29,8 +29,8 @@
 <h2 align="center">🖥️ Backend</h2>  
 <div align="center">  
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,py,fastapi)](https://skillicons.dev)  
-
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,nextjs,py,java,spring,cpp)](https://skillicons.dev)  
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" height="30"/>
 
 </div>
 <h2 align="center">🎨 Frontend</h2>  
@@ -54,13 +54,13 @@
 
 
 </div>  
-<h3 align="center">☁️ Deploy & Cloud</h3>  
+<h2 align="center">☁️ Deploy & Cloud</h2>  
 <div align="center">  
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,render,terraform)](https://skillicons.dev)  
 
 </div>  
-<h3 align="center">🛠️ Tools</h3>  
+<h2 align="center">🛠️ Tools</h2>  
 <div align="center">  
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,grafana,prometheus)](https://skillicons.dev)  
