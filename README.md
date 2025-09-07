@@ -31,6 +31,8 @@
 <div align="center">  
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,nextjs,py,java,spring,cpp,fastapi)](https://skillicons.dev)
+
+
 [![My Skills](https://skills.thijs.gg/icons?i=nextjs,react,ts,py,java,mysql,postgres,php&theme=dark)](https://skills.thijs.gg)
 
 
