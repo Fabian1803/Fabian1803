@@ -33,11 +33,11 @@
 [![My Skills](https://skills-icons.vercel.app/api/icons?i=ts,nodejs,express,nestjs,java,spring,python,fastapi,flask,php,cpp)](https://skills-icons.vercel.app)
 
 </div>
-<h2 align="center">🎨 Frontend</h2>  
+<h3>🎨 Frontend</h3>  
 <div align="center">  
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,py,fastapi)](https://skillicons.dev)  
-
+[[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,py,fastapi)](https://skillicons.dev)  
+](https://skills.syvixor.com/api/icons?i=html,css3,javascript,wordpress,reactjs,tailwindcss,tailwindmerge,angularjs,vuejs,android,apple,reactnative,bootstrap,electron)
 
 </div>  
 <h2 align="center">🔒 DevSecOps</h2>  
