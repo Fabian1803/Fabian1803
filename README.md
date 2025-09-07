@@ -53,10 +53,16 @@
 
 
 </div>  
-<h3>☁️ Deploy & Cloud</h3>  
+<h2>☁️ Deploy & Cloud</h2>  
 <div align="center">  
 
 [![My Skills](https://skills.syvixor.com/api/icons?i=amazonwebservices,azure,googlecloud,vercel,netlify,render,railway)](https://skillicons.dev)  
+
+</div>  
+<h2>💻 Operating Systems/h2>  
+<div align="center">  
+
+[![My Skills](https://skills.syvixor.com/api/icons?i=windows,linux,ubuntu,kalilinux,macos)](https://skillicons.dev)  
 
 </div>  
 <h2 align="center">🛠️ Tools</h2>  
