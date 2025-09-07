@@ -32,6 +32,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,nextjs,py,java,spring,cpp,fastapi)](https://skillicons.dev)
 
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=nodejs,nestjs,java,spring,py,fastapi)](https://skills-icons.vercel.app)
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>          
 
