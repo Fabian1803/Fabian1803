@@ -25,8 +25,9 @@
 ![Discord](https://img.shields.io/badge/fabian.504-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
   </div>
 </div>
+<h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>My Tech Stack</h2>
 
-<h2 align="center">🖥️ Backend</h2>  
+<h3>🖥️ Backend</h3>  
 <div align="center">  
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,nextjs,py,java,spring,cpp,fastapi)](https://skillicons.dev)
