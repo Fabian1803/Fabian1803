@@ -34,6 +34,7 @@
 <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
 <img src="https://cdn.simpleicons.org/flask/white" height="50"/>
 <img src="https://cdn.simpleicons.org/java/white" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Kong-logo.png" height="30"/>
 
 
 
