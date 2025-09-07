@@ -29,8 +29,11 @@
 <h2 align="center">🖥️ Backend</h2>  
 <div align="center">  
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,nextjs,py,java,spring,cpp)](https://skillicons.dev)  
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" height="30"/>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,nextjs,py,java,spring,cpp,fastapi)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
+<img src="https://cdn.simpleicons.org/flask/white" height="30"/>
+
 
 </div>
 <h2 align="center">🎨 Frontend</h2>  
