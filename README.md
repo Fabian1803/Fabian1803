@@ -42,7 +42,7 @@
 <h3>🔒 DevSecOps</h3>  
 <div align="center">  
 
-[![My Skills](https://skills.syvixor.com/api/icons?i=docker,gitlab,jenkins,terraform,grafana,prometheus,loki,snyk,githubcopilot)](https://skillicons.dev)  
+[![My Skills](https://skills.syvixor.com/api/icons?i=docker,gitlab,jenkins,terraform,grafana,prometheus,loki,snyk,junit4,githubcopilot)](https://skillicons.dev)  
 
 
 </div>
@@ -59,16 +59,23 @@
 [![My Skills](https://skills.syvixor.com/api/icons?i=amazonwebservices,azure,googlecloud,vercel,netlify,render,railway)](https://skillicons.dev)  
 
 </div>  
-<h3>💻 Operating Systems/h3>  
+<h3>💻 Operating Systems</h3>  
 <div align="center">  
 
 [![My Skills](https://skills.syvixor.com/api/icons?i=windows,linux,ubuntu,kalilinux,macos)](https://skillicons.dev)  
 
 </div>  
-<h3 align="center">🛠️ Tools</h3>  
+<h3>🛠️ Tools</h3>  
 <div align="center">  
 
 [![My Skills](https://skills.syvixor.com/api/icons?i=gitbash,git,github,visualstudiocode,netbeans,intellijidea,postman,notion,figma,googlecolaboratory,androidstudio,xcode)](https://skillicons.dev)  
+
+</div>
+</div>  
+<h3>🌐 Others</h3>  
+<div align="center">  
+
+[![My Skills](https://skills.syvixor.com/api/icons?i=arduino,godot,blender,cisco,c,cpanel,flutter,powershell,powerbi,rest,sass,yaml,axios,kotlin,jwt)](https://skillicons.dev)  
 
 </div>  
 <br>
