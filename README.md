@@ -30,7 +30,7 @@
 <h3>🖥️ Backend</h3>  
 <div align="center">  
 
-[![My Skills](https://skills-icons.vercel.app/api/icons?i=ts,nodejs,express,nestjs,java,spring,py,fastapi,flask,php,cpp,py)](https://skills-icons.vercel.app)
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=ts,nodejs,express,nestjs,java,spring,py,fastapi,flask,php,cpp,python)](https://skills-icons.vercel.app)
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,java,spring,py,fastapi,flask,php,cpp&perline=10)](https://skill-icons-builder.vercel.app/)
 
