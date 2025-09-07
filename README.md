@@ -36,7 +36,7 @@
 <h3>🎨 Frontend</h3>  
 <div align="center">  
 
-[![My Skills](https://skills.syvixor.com/api/icons?i=html,css3,javascript,wordpress,reactjs,tailwindcss,tailwindmerge,angularjs,vuejs,android,apple,reactnative,bootstrap,electron)](https://skills-icons.vercel.app)
+[![My Skills](https://skills.syvixor.com/api/icons?i=html,css3,javascript,wordpress,vite,reactjs,tailwindcss,tailwindmerge,angularjs,vuejs,android,apple,reactnative,bootstrap,electron)](https://skills-icons.vercel.app)
 
 </div>  
 <h2>🔒 DevSecOps</h2>  
@@ -46,17 +46,17 @@
 
 
 </div>
-<h2 align="center">🔒 DevSecOps</h2>  
+<h2>🗄️ Databases & ORM</h2>  
 <div align="center">  
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,py,fastapi)](https://skillicons.dev)  
+[![My Skills](https://skills.syvixor.com/api/icons?i=sqlserver,mysql,postgresql,mongodb,prisma,typeorm,hibernate)](https://skillicons.dev)  
 
 
 </div>  
-<h2 align="center">☁️ Deploy & Cloud</h2>  
+<h3>☁️ Deploy & Cloud</h3>  
 <div align="center">  
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,render,terraform)](https://skillicons.dev)  
+[![My Skills](https://skills.syvixor.com/api/icons?i=amazonwebservices,azure,googlecloud,vercel,netlify,render,railway)](https://skillicons.dev)  
 
 </div>  
 <h2 align="center">🛠️ Tools</h2>  
