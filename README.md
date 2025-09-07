@@ -32,9 +32,29 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,py,fastapi)](https://skillicons.dev)  
 
 
+</div>
+<h2 align="center">🎨 Frontend</h2>  
+<div align="center">  
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,py,fastapi)](https://skillicons.dev)  
+
+
+</div>  
+<h2 align="center">🔒 DevSecOps</h2>  
+<div align="center">  
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,py,fastapi)](https://skillicons.dev)  
+
+
+</div>
+<h2 align="center">🔒 DevSecOps</h2>  
+<div align="center">  
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,py,fastapi)](https://skillicons.dev)  
+
+
 </div>  
 
----
 
 <p align="center">
   <a href="https://skillicons.dev">
