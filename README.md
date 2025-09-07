@@ -30,14 +30,7 @@
 <h3>🖥️ Backend</h3>  
 <div align="center">  
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,nextjs,py,java,spring,cpp,fastapi)](https://skillicons.dev)
-
-[![My Skills](https://skills-icons.vercel.app/api/icons?i=nodejs,nestjs,java,spring,py,fastapi)](https://skills-icons.vercel.app)
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>          
-
-
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=ts,nodejs,nestjs,java,spring,py,fastapi,flask,bh)](https://skills-icons.vercel.app)
 
 </div>
 <h2 align="center">🎨 Frontend</h2>  
