@@ -31,12 +31,8 @@
 <div align="center">  
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,nextjs,py,java,spring,cpp,fastapi)](https://skillicons.dev)
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
-<img src="https://cdn.simpleicons.org/flask/white" height="50"/>
-![Custom Badge](https://img.shields.io/badge/Backend-NestJS%20%7C%20FastAPI%20%7C%20Spring-blue?style=for-the-badge&logo=nestjs&logoColor=white)
+[![My Skills](https://skills.thijs.gg/icons?i=java,nodejs,react&theme=light)](https://skills.thijs.gg)
 
-![Custom Badge](https://img.shields.io/badge/Backend-NestJS%20%7C%20FastAPI%20%7C%20Spring-blue?style=for-the-badge&logo=nestjs&logoColor=white)
 
 
 
