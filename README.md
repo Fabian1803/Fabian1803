@@ -33,8 +33,7 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
 <img src="https://cdn.simpleicons.org/flask/white" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+![Custom Badge](https://img.shields.io/badge/Backend-NestJS%20%7C%20FastAPI%20%7C%20Spring-blue?style=for-the-badge&logo=nestjs&logoColor=white)
 
 
 
