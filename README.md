@@ -39,10 +39,10 @@
 [![My Skills](https://skills.syvixor.com/api/icons?i=html,css3,javascript,wordpress,reactjs,tailwindcss,tailwindmerge,angularjs,vuejs,android,apple,reactnative,bootstrap,electron)](https://skills-icons.vercel.app)
 
 </div>  
-<h2 align="center">🔒 DevSecOps</h2>  
+<h2>🔒 DevSecOps</h2>  
 <div align="center">  
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,py,fastapi)](https://skillicons.dev)  
+[![My Skills](https://skills.syvixor.com/api/icons?i=docker,gitlab,jenkins,terraform,grafana,prometheus,loki,snyk,githubcopilot)](https://skillicons.dev)  
 
 
 </div>
