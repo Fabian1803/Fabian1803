@@ -54,14 +54,18 @@
 
 
 </div>  
+<h3 align="center">☁️ Deploy & Cloud</h3>  
+<div align="center">  
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,render,terraform)](https://skillicons.dev)  
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,apple,git,androidstudio,aws,firebase,flutter,discord,gcp,github,godot,idea,java" />
-    <img src="https://skillicons.dev/icons?i=linkedin,linux,php,postgres,postman,spring,tailwind,ts,vite,vscode,windows,wordpress" />
-  </a>
-</p>
+</div>  
+<h3 align="center">🛠️ Tools</h3>  
+<div align="center">  
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,grafana,prometheus)](https://skillicons.dev)  
+
+</div>  
 <br>
 <h2 align="center">📊 GitHub Stats</h2>
 <p align= "center">
