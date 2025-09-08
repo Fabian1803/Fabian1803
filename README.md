@@ -100,6 +100,9 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Fabian1803&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Fabian1803&no-frame=true" alt="Trophies" />
+
 </div>
 
 
