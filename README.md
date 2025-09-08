@@ -99,7 +99,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fabian1803&theme=tokyonight&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Fabian1803&theme=tokyonight&no-frame=true&column=9" alt="Trophies" />
 
 </div>
 
