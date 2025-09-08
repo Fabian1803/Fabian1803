@@ -85,11 +85,15 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian1803&theme=react&layout=compact" />
   <a href="https://github.com/Fabian1803"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabian1803&theme=dracula&hide_border=true"  width="520" alt="Fabian"/></a>
 </p>
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fabian1803&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian1803&layout=compact&theme=tokyonight" alt="Top Langs" />
-</div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabian1803&theme=dracula" width="500"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fabian1803&theme=dracula" width="250"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fabian1803&theme=dracula" width="250"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fabian1803&theme=dracula" width="250"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fabian1803&theme=dracula" width="250"/>
+</p>
+
 
 
 <h2 align="center">🏆 GitHub Trophies</h2>
