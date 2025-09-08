@@ -94,9 +94,9 @@
     <div></div>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fabian1803&theme=aura" width="50%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fabian1803&theme=aura" width="50%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fabian1803&theme=aura" width="50%" align="right"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fabian1803&theme=aura" width="50%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fabian1803&theme=aura" width="50%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fabian1803&theme=aura" width="50%" align="right"/>
 </p>
 
 
