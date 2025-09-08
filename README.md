@@ -101,7 +101,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Fabian1803&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Fabian1803&heme=tokyonight&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Fabian1803&heme=tokyonight&no-frame=true&row1" alt="Trophies" />
 
 </div>
 
