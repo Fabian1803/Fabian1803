@@ -80,24 +80,6 @@
 </div>  
 <br>
 <h2 align="center">📊 GitHub Stats</h2>
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Fabian1803&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian1803&theme=react&layout=compact" />
-  <a href="https://github.com/Fabian1803"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabian1803&theme=dracula&hide_border=true"  width="520" alt="Fabian"/></a>
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabian1803&theme=aura" width="100%"/>
-  <div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fabian1803&theme=aura" width="50%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fabian1803&theme=aura" width="50%" align="right"/>
-  </div>
-
-  <div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fabian1803&theme=aura" width="50%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fabian1803&theme=aura" width="50%" align="right"/>
-  </div>
-</p>
 
 <p align="center">
   <!-- Card de perfil completa -->
