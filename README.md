@@ -27,7 +27,7 @@
 </div>
 <h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>My Tech Stack</h2>
 
-<h6 align="center">Backend</h6>  
+<h5 align="center">Backend</h5>  
 <div align="center">  
 
 [![My Skills](https://skills-icons.vercel.app/api/icons?i=ts,nodejs,express,nestjs,java,spring,python,fastapi,flask,php,cpp)](https://skills-icons.vercel.app)
@@ -39,40 +39,39 @@
 [![My Skills](https://skills.syvixor.com/api/icons?i=html,css3,javascript,wordpress,vite,reactjs,tailwindcss,tailwindmerge,angularjs,vuejs,android,apple,reactnative,bootstrap,electron)](https://skills-icons.vercel.app)
 
 </div>  
-<h3>🔒 DevSecOps</h3>  
+<h5 align="center">DevSecOps</h5>  
 <div align="center">  
 
 [![My Skills](https://skills.syvixor.com/api/icons?i=docker,gitlab,jenkins,terraform,grafana,prometheus,loki,snyk,junit4,githubcopilot)](https://skillicons.dev)  
 
 
 </div>
-<h3>🗄️ Databases & ORM</h3>  
+<h5 align="center">Databases & ORM</h5>  
 <div align="center">  
 
 [![My Skills](https://skills.syvixor.com/api/icons?i=sqlserver,mysql,postgresql,mongodb,supabase,prisma,typeorm,hibernate)](https://skillicons.dev)  
 
-
 </div>  
-<h3>☁️ Deploy & Cloud</h3>  
+<h5 align="center">Deploy & Cloud</h5>  
 <div align="center">  
 
 [![My Skills](https://skills.syvixor.com/api/icons?i=amazonwebservices,azure,googlecloud,vercel,netlify,render,railway)](https://skillicons.dev)  
 
 </div>  
-<h3>💻 Operating Systems</h3>  
+<h5 align="center">Operating Systems</h5>  
 <div align="center">  
 
 [![My Skills](https://skills.syvixor.com/api/icons?i=windows,linux,ubuntu,kalilinux,macos)](https://skillicons.dev)  
 
 </div>  
-<h3>🛠️ Tools</h3>  
+<h5 align="center">Tools</h5>  
 <div align="center">  
 
 [![My Skills](https://skills.syvixor.com/api/icons?i=gitbash,git,github,visualstudiocode,netbeans,intellijidea,postman,notion,figma,googlecolaboratory,androidstudio,xcode)](https://skillicons.dev)  
 
 </div>
 </div>  
-<h3>🌐 Others</h3>  
+<h3 align="center">Others</h3>  
 <div align="center">  
 
 [![My Skills](https://skills.syvixor.com/api/icons?i=arduino,godot,blender,cisco,c,cpanel,flutter,powershell,powerbi,rest,sass,yaml,axios,kotlin,jwt)](https://skillicons.dev)  
