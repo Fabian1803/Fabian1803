@@ -71,7 +71,7 @@
 
 </div>
 </div>  
-<h3 align="center">Others</h3>  
+<h5 align="center">Others</h5>  
 <div align="center">  
 
 [![My Skills](https://skills.syvixor.com/api/icons?i=arduino,godot,blender,cisco,c,cpanel,flutter,powershell,powerbi,rest,sass,yaml,axios,kotlin,jwt)](https://skillicons.dev)  
