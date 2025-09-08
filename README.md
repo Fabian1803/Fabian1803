@@ -87,13 +87,13 @@
 </p>
 
 <p align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabian1803&theme=aura)
+  ![]()
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabian1803&theme=dracula" width="500"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fabian1803&theme=dracula" width="250"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fabian1803&theme=dracula" width="250"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fabian1803&theme=dracula" width="250"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fabian1803&theme=dracula" width="250"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabian1803&theme=aura" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fabian1803&theme=aura" width="250"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fabian1803&theme=aura" width="250"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fabian1803&theme=aura" width="250"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fabian1803&theme=aura" width="250"/>
 </p>
 
 
